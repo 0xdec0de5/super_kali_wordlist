@@ -9,31 +9,12 @@ Clear text passwords using Troy Hunt's Pwned Passwords V2 and using Mex666666 de
 [Mex666666 on hashkiller.co.uk](https://forum.hashkiller.co.uk/user-view.aspx?u=33407)
 
 
-
-**IMPORTANT**
-The wordlist file is almost 6GB so I split it up into smaller 100MB text files. You should clone the following repositories to get all the full password/word list file
-*(Github limits repo size to 1GB and file size to 100MB)*,
-
-- https://github.com/0xdec0de5/super_kali_wordlist
-
-- https://github.com/0xdec0de5/super_kali_wordlist_02
-
-- https://github.com/0xdec0de5/super_kali_wordlist_03
-
-- https://github.com/0xdec0de5/super_kali_wordlist_04
-
-- https://github.com/0xdec0de5/super_kali_wordlist_05
-
-- https://github.com/0xdec0de5/super_kali_wordlist_06
-
-
-
 ## How to use it
 
 For my purposes, I use this word/password list as a replacement for the much smaller password lists distributed with Kali Linux.
 
 
-Once you clone this repo and the others *(02 - 06)*, you should merge all the text files into one large wordlist text file.
+Once you clone this repo you should merge all the text files into one large wordlist text file.
 
 
 
